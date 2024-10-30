@@ -1,0 +1,3 @@
+[submodule "flatcar-scripts"]
+	path = flatcar-scripts
+	url = git@github.com:dandenkijin/flatcar-scripts.git
